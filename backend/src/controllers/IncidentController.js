@@ -25,7 +25,7 @@ module.exports = {
             title,
             description,
             value,
-            ong_id
+            ong_id,
         })
 
         return response.json({ id });
